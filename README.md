@@ -1,0 +1,1 @@
+!stopmusic for CS:GO.
